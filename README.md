@@ -33,3 +33,10 @@ This project demonstrates data cleaning and dashboarding using Microsoft Excel.
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+## 👤 Author
+
+**Muhammad Umer Haider**  
+Data Analyst | Software Engineer  
+📧 Email: [umer.haider0002@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-umer-haider-933913213/)
